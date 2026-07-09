@@ -60,18 +60,21 @@ I believe in learning by building. Every project — big or small — is a chanc
 
 ### Main Repositories
 
-<p align="center">
-  <a href="https://github.com/devthanseemx/quick-hire">
-    <img width="320" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devthanseemx&repo=quick-hire&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/devthanseemx/yoksh-app">
-    <img width="320" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devthanseemx&repo=yoksh-app&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/devthanseemx/library-system">
-    <img width="320" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devthanseemx&repo=library-system&theme=tokyonight&hide_border=true" />
-  </a>
+<p align="center"> 
+  <a href="https://github.com/devthanseemx/quick-hire"> 
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devthanseemx&repo=quick-hire&theme=tokyonight&hide_border=true" /> 
+  </a> 
+  <a href="https://github.com/devthanseemx/yoksh-app"> 
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devthanseemx&repo=yoksh-app&theme=tokyonight&hide_border=true" /> 
+  </a> 
+</p> 
+<p align="center"> 
+  <a href="https://github.com/devthanseemx/library-system"> 
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devthanseemx&repo=library-system&theme=tokyonight&hide_border=true" /> 
+  </a> 
+  <a href="https://github.com/devthanseemx/portfolio"> 
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devthanseemx&repo=portfolio&theme=tokyonight&hide_border=true" /> 
+  </a> 
 </p>
 
 
@@ -94,15 +97,15 @@ I believe in learning by building. Every project — big or small — is a chanc
 
 <p align="center">
   <a href="https://github.com/devthanseemx"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER_ID"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://skillicons.dev/icons?i=devto" /></a>
+  <a href="https://www.linkedin.com/in/mmthanseem"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <!-- <a href="https://twitter.com/YOUR_TWITTER_ID"><img src="https://skillicons.dev/icons?i=twitter" /></a> -->
+  <a href="mailto:thanseem.web@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://thanseem-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=devto" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_ID"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+  <!-- <a href="https://www.facebook.com/YOUR_FACEBOOK_ID"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a> -->
   <a href="mailto:thanseem.web@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=flat&logo=aboutdotme&logoColor=white" /></a>
+  <a href="https://thanseem-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=flat&logo=aboutdotme&logoColor=white" /></a>
   <a href="https://github.com/devthanseemx/trip-mate"><img src="https://img.shields.io/badge/Currently%20Building-View%20Project-success?style=flat&logo=github&logoColor=white" /></a>
 </p>
