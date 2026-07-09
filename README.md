@@ -1,325 +1,108 @@
-<!-- ========================================================= -->
-<!--                 👋 PROFILE HEADER SECTION                 -->
-<!-- ========================================================= -->
-
-<h1 align="center">
-  Hi there, I'm Mohamed Thanseem 👋
-</h1>
-
-<h3 align="center">
-  AI Enthusiast • Full-Stack Developer • Android Developer • IT Support Learner
-</h3>
+<h1 align="center">MOHAMED THANSEEM</h1>
+<h3 align="center">AI Enthusiast · Full-Stack Developer · Android Developer · IT Support</h3>
 
 <p align="center">
-  <a href="https://github.com/devthanseemx">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Building+AI-Powered+Applications;Full-Stack+Web+Developer;Android+Application+Developer;IT+Support+%26+Cloud+Technology+Learner;Always+Learning+Something+New." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Applications;Full-Stack+Web+Development;Android+App+Development;IT+Support+%26+Cloud+Technology" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full--Stack%20%7C%20IT%20Support-3B82F6?style=flat" alt="Focus"/>
+  <img src="https://komarev.com/ghpvc/?username=devthanseemx&label=Profile+Views&color=0EA5E9&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/devthanseemx?label=Followers&style=flat&color=8B5CF6" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Open%20to-IT%20Support%20Roles-22C55E?style=flat" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Learning-Cloud%20%26%20DevOps-F59E0B?style=flat" alt="Learning"/>
+  <img src="https://img.shields.io/badge/Currently-Building%20AI%20Projects-EF4444?style=flat" alt="Building"/>
+  <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux-14B8A6?style=flat" alt="Operating Systems"/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Internships-EC4899?style=flat" alt="Availability"/>
+  <img src="https://img.shields.io/badge/Ask%20Me-React%20%7C%20Node.js%20%7C%20JavaScript-F97316?style=flat" alt="Ask Me"/>
+  <img src="https://img.shields.io/badge/Fun%20Fact-I%20Love%20Building%20PCs-06B6D4?style=flat" alt="Fun Fact"/>
+</p>
+
+### About Me
+
+I'm an IT graduate from the University of Moratuwa, Sri Lanka, with a genuine passion for turning ideas into working software. My interests sit at the intersection of **Artificial Intelligence**, **Full-Stack Web Development**, **Android Development**, and **IT Support** — I like understanding both how systems are built and how they're kept running.
+
+On the development side, I build practical, real-world applications: web apps, Android apps, and small automation tools, mostly using PHP, JavaScript, and Python. On the IT side, I have hands-on experience with software setup, productivity app configuration, system optimization, and remote support using tools like AnyDesk — the kind of day-to-day problem-solving that IT Support and Service Desk roles are built on.
+
+Longer term, I'm working toward a career in IT Support, with the goal of growing into more senior support and infrastructure roles over time. Alongside that, I'm slowly building an **IT solutions business** for small businesses and shops — covering things like resume/CV design, small Android projects, desktop applications, and web applications. I'm also chipping away at a personal dream project: a **JARVIS-style AI companion** capable of natural conversation, task automation, and controlling devices and services across an environment.
+
+I believe in learning by building. Every project — big or small — is a chance to get sharper at both the technical and the practical side of technology.
+
+- 🎓 IT Graduate, University of Moratuwa, Sri Lanka
+- 💼 Seeking entry-level roles in IT Support, Service Desk, and SAP Support
+- 🤖 Building a JARVIS-style personal AI companion
+- 🏢 Building an IT solutions business for small businesses and shops
+- ☁️ Learning Azure and AWS cloud fundamentals
+- 📫 Open to opportunities and collaboration
+
+### Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,cs,js,ts,php,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,dotnet,androidstudio,kotlin,flutter,mysql,postgres,mongodb,sqlite,pytorch,tensorflow,azure,aws,docker,linux,git,github,vscode,figma,postman,windows,apple" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-005571?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-005571?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/AnyDesk-EF404B?style=flat&logo=anydesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=flat&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira%20Service%20Management-0052CC?style=flat&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Remote%20Desktop-0078D4?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware%20Troubleshooting-6E4C13?style=flat&logo=ifixit&logoColor=white" />
+  <img src="https://img.shields.io/badge/ITIL%20Fundamentals-00A19A?style=flat&logo=axios&logoColor=white" />
+</p>
+
+### Main Repositories
+
+<p align="center">
+  <a href="https://github.com/devthanseemx/quick-hire">
+    <img width="320" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devthanseemx&repo=quick-hire&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/devthanseemx/yoksh-app">
+    <img width="320" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devthanseemx&repo=yoksh-app&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/devthanseemx/library-system">
+    <img width="320" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devthanseemx&repo=library-system&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devthanseemx&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
 
----
-
-<!-- ========================================================= -->
-<!--                     🚀 ABOUT ME SECTION                   -->
-<!-- ========================================================= -->
-
-## 🚀 About Me
-
-I'm a passionate technology enthusiast focused on building practical software solutions using modern technologies.
-
-My interests span across **Artificial Intelligence**, **Full-Stack Web Development**, **Android Application Development**, and **IT Support**. I enjoy turning ideas into real-world applications while continuously learning new tools, frameworks, and technologies.
-
-Currently, I'm working on AI-powered projects, experimenting with local and cloud-based language models, and improving my skills in system administration, networking, cloud computing, and automation.
-
-> 💡 *"Every project is an opportunity to learn, improve, and build something meaningful."*
-
----
-
-<!-- ========================================================= -->
-<!--                    🎯 CURRENT FOCUS                       -->
-<!-- ========================================================= -->
-
-## 🎯 Current Focus
-
-- 🤖 Building an AI Companion
-- 🌐 Developing Modern Web Applications
-- 📱 Creating Android Applications
-- 💻 Improving IT Support Skills
-- ☁️ Learning Cloud Technologies
-- ⚡ Exploring Automation & Productivity Tools
-
----
-
-<!-- ========================================================= -->
-<!--                 🌱 CURRENTLY LEARNING                     -->
-<!-- ========================================================= -->
-
-## 🌱 Currently Learning
-
-- Artificial Intelligence & Large Language Models (LLMs)
-- Cloud Computing (Azure & AWS)
-- Advanced Full-Stack Development
-- Android Application Development
-- System Administration
-- Networking & IT Infrastructure
-
----
-
-<!-- ========================================================= -->
-<!--                 🤝 OPEN TO COLLABORATE                    -->
-<!-- ========================================================= -->
-
-## 🤝 Open to Collaborate On
-
-I'm always interested in collaborating on projects involving:
-
-- 🤖 AI-Powered Applications
-- 🌐 Full-Stack Web Development
-- 📱 Android Applications
-- ⚙️ Automation Tools
-- 💡 Open Source Projects
-
----
-
-<!-- ========================================================= -->
-<!--                   💬 ASK ME ABOUT                         -->
-<!-- ========================================================= -->
-
-## 💬 Ask Me About
-
-- Artificial Intelligence
-- Full-Stack Development
-- Android Development
-- IT Support
-- Computer Hardware
-- Networking
-- Git & GitHub
-
----
-
-<!-- ========================================================= -->
-<!--                    📫 CONNECT WITH ME                     -->
-<!-- ========================================================= -->
-
-## 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/devthanseemx">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!-- Add your LinkedIn URL -->
-<!--
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
--->
-
-<!-- Add your portfolio URL -->
-<!--
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
--->
-
-<!-- Add your email -->
-<!--
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
--->
-
-</p>
-
----
-
-<!-- ========================================================= -->
-<!--                  ⭐ PERSONAL PHILOSOPHY                   -->
-<!-- ========================================================= -->
-
-## ⭐ Personal Philosophy
-
-> **Learn • Build • Improve • Share**
-
-I believe continuous learning and hands-on experience are the keys to becoming a better developer and IT professional. Every project I work on helps me expand my knowledge and contribute to meaningful solutions.
-
-
-<!-- ========================================================= -->
-<!--                    🛠️ TECHNOLOGY STACK                   -->
-<!-- ========================================================= -->
-
-<h2 align="center">🛠️ Technology Stack</h2>
+### GitHub Analytics
 
 <p align="center">
-  Technologies and tools I use to design, develop, and manage applications.
+  <img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devthanseemx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devthanseemx&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<br>
-
-<!-- Programming Languages -->
-<h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,js,ts,html,css,sql" />
+  <img height="170px" src="https://streak-stats.demolab.com?user=devthanseemx&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
-
-
-<!-- Frontend Development -->
-<h3 align="center">🌐 Frontend Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=devthanseemx&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies"/>
 </p>
 
-
-<!-- Backend Development -->
-<h3 align="center">⚙️ Backend Development</h3>
+### Connect
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,flask" />
+  <a href="https://github.com/devthanseemx"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER_ID"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://skillicons.dev/icons?i=devto" /></a>
 </p>
-
-
-<!-- Mobile Development -->
-<h3 align="center">📱 Mobile Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin" />
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_ID"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:thanseem.web@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=flat&logo=aboutdotme&logoColor=white" /></a>
+  <a href="https://github.com/devthanseemx/trip-mate"><img src="https://img.shields.io/badge/Currently%20Building-View%20Project-success?style=flat&logo=github&logoColor=white" /></a>
 </p>
-
-
-<!-- Database -->
-<h3 align="center">🗄️ Database Technologies</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-</p>
-
-
-<!-- AI and Machine Learning -->
-<h3 align="center">🤖 Artificial Intelligence</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-
-<!-- Cloud and DevOps -->
-<h3 align="center">☁️ Cloud & DevOps</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,git,github" />
-</p>
-
-
-<!-- Tools -->
-<h3 align="center">🔧 Development Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,postman" />
-</p>
-
-<!-- ========================================================= -->
-<!--                  📊 GITHUB STATISTICS                    -->
-<!-- ========================================================= -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  A visual overview of my coding activity, contributions, and achievements.
-</p>
-
-
-<p align="center">
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=devthanseemx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthanseemx&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<!-- ========================================================= -->
-<!--                 🔥 CONTRIBUTION STREAK                   -->
-<!-- ========================================================= -->
-
-<h2 align="center">🔥 GitHub Contribution Streak</h2>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=devthanseemx&theme=tokyonight&hide_border=true"/>
-</p>
-
-<!-- ========================================================= -->
-<!--                  🚀 FEATURED PROJECTS                    -->
-<!-- ========================================================= -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-  Some projects that represent my learning journey and technical skills.
-</p>
-
-
-<div align="center">
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=devthanseemx&repo=PROJECT_NAME&theme=tokyonight&hide_border=true"/>
-</a>
-
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=devthanseemx&repo=PROJECT_NAME&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<!-- ========================================================= -->
-<!--                    🏆 GITHUB TROPHIES                    -->
-<!-- ========================================================= -->
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devthanseemx&theme=tokyonight&no-frame=true&column=7"/>
-
-</p>
-
-<!-- ========================================================= -->
-<!--                  🐍 CONTRIBUTION SNAKE                   -->
-<!-- ========================================================= -->
-
-<h2 align="center">🐍 Contribution Activity</h2>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devthanseemx/devthanseemx/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-<!-- ========================================================= -->
-<!--                    🌐 SOCIAL LINKS                       -->
-<!-- ========================================================= -->
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-
-<p align="center">
-
-<a href="https://github.com/devthanseemx">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=devto"/>
-</a>
-
-</p>
-
