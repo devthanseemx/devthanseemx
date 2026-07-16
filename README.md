@@ -73,7 +73,7 @@ I believe in learning by building. Every project — big or small — is a chanc
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devthanseemx&repo=library-system&theme=tokyonight&hide_border=true" /> 
   </a> 
   <a href="https://github.com/devthanseemx/fixit-community"> 
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devthanseemx&repo=portfolio&theme=tokyonight&hide_border=true" /> 
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devthanseemx&repo=fixit-community&theme=tokyonight&hide_border=true" /> 
   </a> 
 </p>
 
