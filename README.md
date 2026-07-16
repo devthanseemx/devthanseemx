@@ -63,9 +63,10 @@ I believe in learning by building. Every project — big or small — is a chanc
 <p align="center"> 
   <a href="https://github.com/devthanseemx/quick-hire"> 
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devthanseemx&repo=quick-hire&theme=tokyonight&hide_border=true" /> 
-  </a> 
-  <a href="https://github.com/devthanseemx/yoksh-app"> 
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devthanseemx&repo=yoksh-app&theme=tokyonight&hide_border=true" /> 
+  </a>
+
+  <a href="https://github.com/devthanseemx/devthanseemx"> 
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=devthanseemx&repo=devthanseemx&theme=tokyonight&hide_border=true" /> 
   </a> 
 </p> 
 <p align="center"> 
