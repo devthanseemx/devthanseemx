@@ -60,12 +60,28 @@ I believe in learning by building. Every project — big or small — is a chanc
 
 ### Main Repositories
 
-| Project | Repository |
-|:--|:--|
-| **Quick Hire** | [Explore the repository](https://github.com/devthanseemx/quick-hire) |
-| **FixIt Community** | [Explore the repository](https://github.com/devthanseemx/fixit-community) |
-| **Library System** | [Explore the repository](https://github.com/devthanseemx/library-system) |
-| **Profile & Portfolio** | [Explore the repository](https://github.com/devthanseemx/devthanseemx) |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Quick Hire</h3>
+      <a href="https://github.com/devthanseemx/quick-hire">View repository →</a>
+    </td>
+    <td width="50%">
+      <h3>FixIt Community</h3>
+      <a href="https://github.com/devthanseemx/fixit-community">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Library System</h3>
+      <a href="https://github.com/devthanseemx/library-system">View repository →</a>
+    </td>
+    <td width="50%">
+      <h3>Profile &amp; Portfolio</h3>
+      <a href="https://github.com/devthanseemx/devthanseemx">View repository →</a>
+    </td>
+  </tr>
+</table>
 
 
 ### GitHub Analytics
