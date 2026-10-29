@@ -60,28 +60,22 @@ I believe in learning by building. Every project — big or small — is a chanc
 
 ### Main Repositories
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Quick Hire</h3>
-      <a href="https://github.com/devthanseemx/quick-hire">View repository →</a>
-    </td>
-    <td width="50%">
-      <h3>FixIt Community</h3>
-      <a href="https://github.com/devthanseemx/fixit-community">View repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Library System</h3>
-      <a href="https://github.com/devthanseemx/library-system">View repository →</a>
-    </td>
-    <td width="50%">
-      <h3>Profile &amp; Portfolio</h3>
-      <a href="https://github.com/devthanseemx/devthanseemx">View repository →</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/devthanseemx/quick-hire">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devthanseemx&repo=quick-hire&theme=tokyonight&hide_border=true&border_radius=15" alt="Quick Hire repository card" />
+  </a>
+  <a href="https://github.com/devthanseemx/fixit-community">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devthanseemx&repo=fixit-community&theme=tokyonight&hide_border=true&border_radius=15" alt="FixIt Community repository card" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/devthanseemx/library-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devthanseemx&repo=library-system&theme=tokyonight&hide_border=true&border_radius=15" alt="Library System repository card" />
+  </a>
+  <a href="https://github.com/devthanseemx/devthanseemx">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devthanseemx&repo=devthanseemx&theme=tokyonight&hide_border=true&border_radius=15" alt="Profile repository card" />
+  </a>
+</p>
 
 
 ### GitHub Analytics
