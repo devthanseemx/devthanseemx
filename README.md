@@ -62,18 +62,18 @@ I believe in learning by building. Every project — big or small — is a chanc
 
 <p align="center">
   <a href="https://github.com/devthanseemx/berzh-mate">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=devthanseemx&repo=berzh-mate&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=86400" alt="Berzh Mate repository card" />
+    <img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=devthanseemx&repo=berzh-mate&theme=default&hide_border=true&border_radius=15&cache_seconds=86400" alt="Berzh Mate repository card" />
   </a>
   <a href="https://github.com/devthanseemx/berzh-ai">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=devthanseemx&repo=berzh-ai&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=86400" alt="Berzh AI repository card" />
+    <img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=devthanseemx&repo=berzh-ai&theme=default&hide_border=true&border_radius=15&cache_seconds=86400" alt="Berzh AI repository card" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/devthanseemx/quick-hire">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=devthanseemx&repo=quick-hire&theme=tokyonight&hide_border=true&border_radius=15" alt="Library System repository card" />
+    <img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=devthanseemx&repo=quick-hire&theme=default&hide_border=true&border_radius=15" alt="Library System repository card" />
   </a>
   <a href="https://github.com/devthanseemx/devthanseemx">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=devthanseemx&repo=devthanseemx&theme=tokyonight&hide_border=true&border_radius=15" alt="Profile repository car" />
+    <img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=devthanseemx&repo=devthanseemx&theme=default&hide_border=true&border_radius=15" alt="Profile repository car" />
   </a>
 </p>
 
@@ -81,9 +81,9 @@ I believe in learning by building. Every project — big or small — is a chanc
 ### GitHub Analytics
 
 <p align="center">
-  <img height="170px" src="https://github-stats-extended.vercel.app/api?username=devthanseemx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img height="195" src="https://github-stats-extended.vercel.app/api?username=devthanseemx&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
   
-  <img height="170px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devthanseemx&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devthanseemx&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
