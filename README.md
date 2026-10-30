@@ -69,8 +69,8 @@ I believe in learning by building. Every project — big or small — is a chanc
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/devthanseemx/jotto">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=devthanseemx&repo=jotto&theme=tokyonight&hide_border=true&border_radius=15" alt="Library System repository card" />
+  <a href="https://github.com/devthanseemx/quick-hire">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=devthanseemx&repo=quick-hire&theme=tokyonight&hide_border=true&border_radius=15" alt="Library System repository card" />
   </a>
   <a href="https://github.com/devthanseemx/devthanseemx">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=devthanseemx&repo=devthanseemx&theme=tokyonight&hide_border=true&border_radius=15" alt="Profile repository card" />
