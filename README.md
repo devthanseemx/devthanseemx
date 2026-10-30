@@ -62,10 +62,10 @@ I believe in learning by building. Every project — big or small — is a chanc
 
 <p align="center">
   <a href="https://github.com/devthanseemx/berzh-mate">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=devthanseemx&repo=berzh-mate&theme=tokyonight&hide_border=true&border_radius=15" alt="Quick Hire repository card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=devthanseemx&repo=berzh-mate&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=86400" alt="Berzh Mate repository card" />
   </a>
   <a href="https://github.com/devthanseemx/berzh-ai">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=devthanseemx&repo=berzh-ai&theme=tokyonight&hide_border=true&border_radius=15" alt="FixIt Community repository card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=devthanseemx&repo=berzh-ai&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=86400" alt="Berzh AI repository card" />
   </a>
 </p>
 <p align="center">
