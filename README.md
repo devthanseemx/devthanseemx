@@ -20,13 +20,13 @@
 
 ### About Me
 
-I'm an IT graduate from the University of Moratuwa, Sri Lanka, with a genuine passion for turning ideas into working software. My interests sit at the intersection of **Artificial Intelligence**, **Full-Stack Web Development**, **Android Development**, and **IT Support** — I like understanding both how systems are built and how they're kept running.
+I'm an IT graduate from the University of Moratuwa, Sri Lanka, with a genuine passion for turning ideas into working software. My interests sit at the intersection of Artificial Intelligence, Full-Stack Web Development, Android Development, and IT Support I like understanding both how systems are built and how they're kept running.
 
-On the development side, I build practical, real-world applications: web apps, Android apps, and small automation tools, mostly using PHP, JavaScript, and Python. On the IT side, I have hands-on experience with software setup, productivity app configuration, system optimization, and remote support using tools like AnyDesk — the kind of day-to-day problem-solving that IT Support and Service Desk roles are built on.
+On the development side, I build practical, real-world applications: web apps, Android apps, and small automation tools, mostly using PHP, JavaScript, and Python. On the IT side, I have hands-on experience with software setup, productivity app configuration, system optimization, and remote support using tools like AnyDesk the kind of day-to-day problem-solving that IT Support and Service Desk roles are built on.
 
-Longer term, I'm working toward a career in IT Support, with the goal of growing into more senior support and infrastructure roles over time. Alongside that, I'm slowly building an **IT solutions business** for small businesses and shops — covering things like resume/CV design, small Android projects, desktop applications, and web applications. I'm also chipping away at a personal dream project: a **JARVIS-style AI companion** capable of natural conversation, task automation, and controlling devices and services across an environment.
+Longer term, I'm working toward a career in IT Support, with the goal of growing into more senior support and infrastructure roles over time. Alongside that, I'm slowly building an IT solutions business for small businesses and shops covering things like resume/CV design, small Android projects, desktop applications, and web applications. I'm also chipping away at a personal dream project: a JARVIS-style AI companion capable of natural conversation, task automation, and controlling devices and services across an environment.
 
-I believe in learning by building. Every project — big or small — is a chance to get sharper at both the technical and the practical side of technology.
+I believe in learning by building. Every project big or small is a chance to get sharper at both the technical and the practical side of technology.
 
 - 🎓 IT Graduate, University of Moratuwa, Sri Lanka
 - 💼 Seeking entry-level roles in IT Support, Service Desk, and SAP Support
