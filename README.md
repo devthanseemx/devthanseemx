@@ -74,7 +74,6 @@ I believe in learning by building. Every project — big or small — is a chanc
   </a>
   <a href="https://github.com/devthanseemx/devthanseemx">
     <img height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=devthanseemx&repo=devthanseemx&theme=catppuccin_latte&hide_border=true&border_radius=15" alt="Profile repository card" />
-    <br /><sub>Language: Markdown</sub>
   </a>
 </p>
 
@@ -82,13 +81,13 @@ I believe in learning by building. Every project — big or small — is a chanc
 ### GitHub Analytics
 
 <p align="center">
-  <img height="195" src="https://github-stats-extended.vercel.app/api?username=devthanseemx&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img width="467" height="195" src="https://github-stats-extended.vercel.app/api?username=devthanseemx&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
   
-  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devthanseemx&layout=compact&theme=catppuccin_latte&hide_border=true" alt="Top languages" />
+  <img width="355" height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devthanseemx&layout=compact&theme=catppuccin_latte&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img height="195" src="https://streak-stats.demolab.com?user=devthanseemx&theme=catppuccin_latte&hide_border=true" alt="GitHub streak"/>
+  <img width="495" height="195" src="https://streak-stats.demolab.com?user=devthanseemx&theme=catppuccin_latte&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <p align="center">
