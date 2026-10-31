@@ -1,4 +1,4 @@
-<h1 align="center">MOHAMED THANSEEM</h1>
+<h1 align="center"><strong>MOHAMED THANSEEM</strong></h1>
 <h3 align="center">AI Enthusiast · Full-Stack Developer · Android Developer · IT Support</h3>
 
 <p align="center">
@@ -36,14 +36,14 @@ I believe in learning by building. Every project — big or small — is a chanc
 - 📫 Open to opportunities and collaboration
 
 ### Skills
-
+<br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,cs,js,ts,php,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,dotnet,androidstudio,kotlin,flutter,mysql,postgres,mongodb,sqlite,pytorch,tensorflow,azure,aws,docker,linux,git,github,vscode,figma,postman,windows,apple" />
 </p>
 
 <br/>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Networking-005571?style=flat&logo=cisco&logoColor=white" />
@@ -57,6 +57,8 @@ I believe in learning by building. Every project — big or small — is a chanc
   <img src="https://img.shields.io/badge/Hardware%20Troubleshooting-6E4C13?style=flat&logo=ifixit&logoColor=white" />
   <img src="https://img.shields.io/badge/ITIL%20Fundamentals-00A19A?style=flat&logo=axios&logoColor=white" />
 </p>
+
+<br/>
 
 ### Main Repositories
 
@@ -77,6 +79,7 @@ I believe in learning by building. Every project — big or small — is a chanc
   </a>
 </p>
 
+<br/>
 
 ### GitHub Analytics
 
@@ -94,7 +97,9 @@ I believe in learning by building. Every project — big or small — is a chanc
   <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=devthanseemx&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies"/>
 </p>
 
-### Connect
+<br/>
+
+<h3 align="center">Connect</h3>
 
 <p align="center">
   <a href="https://github.com/devthanseemx"><img src="https://skillicons.dev/icons?i=github" /></a>
